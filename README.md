@@ -41,5 +41,3 @@ A special thanks to **[PrintedWaste](https://printedwaste.com/)**.
 ---
 
 Thank you for using SWA v2! 🚀
-
----
