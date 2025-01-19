@@ -10,7 +10,6 @@ SWA v2 is an advanced utility designed specifically for integration with [Steamt
 
 ## 📂 Directories
 
-- **Games**: [Browse the Game Directory](./Games) to explore all available content.
 - **Uploads**: [Access the Uploads Folder](./Uploads) for all application files.
 
 ## 📦 Download
