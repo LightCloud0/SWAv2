@@ -1,3 +1,7 @@
+Here's the updated content with the link to PrintedWaste:
+
+---
+
 # SWA v2: Advanced Utility for Steamtools Integration
 
 SWA v2 is an advanced utility designed specifically for integration with [Steamtools](https://steamtools.net), streamlining functionality and enhancing user convenience.
@@ -31,6 +35,12 @@ Stay connected and join the community:
 
 - **Discord**: [Join our server](https://discord.gg/mMxPmzwXHY)
 - **Telegram**: [Follow us here](https://t.me/gfklightcloud)
+
+---
+
+### Special Thanks
+
+A special thanks to **[PrintedWaste](https://printedwaste.com/)** for hosting the manifest files.
 
 ---
 
