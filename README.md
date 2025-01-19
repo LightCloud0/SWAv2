@@ -27,7 +27,7 @@ Choose the version that suits your needs:
 
 Here’s a glimpse of the SWA v2 application:
 
-![Screenshot 2](./Static/SWAV2.png)
+![Screenshot 2](./Static/SWAv2.png)
 
 ## 💬 Our Socials <3
 
