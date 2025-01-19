@@ -1,0 +1,32 @@
+{
+  "Grand Theft Auto IV": {
+    "game_id": 12210,
+    "files": [
+      "GTAIV.exe",
+      "PlayGTAIV.exe",
+      "binkw32.dll",
+      "launc.dll",
+      "orig_socialclub.dll",
+      "socialclub.dll"
+    ],
+    "path": "Grand Theft Auto IV//GtaIV",
+    "source": "https://github.com/onajlikezz/Nightlight-Game-Launcher/tree/main/Modules/GTAIV",
+    "dwlnk": "gta4.zip",
+    "startfile": "PlayGTAIV.exe"
+  },
+  "Red Dead Redemption": {
+    "game_id": 2668510,
+    "files": [
+      "PlayRDR.exe",
+      "RDR.exe",
+      "1911.dll",
+      "steam_api64.dll",
+      "st.interposer.dll",
+      "bink2w64.dll"
+    ],
+    "path": "Red Dead Redemption",
+    "source": "https://github.com/onajlikezz/Nightlight-Game-Launcher/tree/main/Modules/RDR1",
+    "dwlnk": "rdr1.zip",
+    "startfile": "RDR.exe"
+  },
+}
