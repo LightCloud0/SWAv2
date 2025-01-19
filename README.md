@@ -20,8 +20,8 @@ SWA v2 is an advanced utility designed specifically for integration with [Steamt
 
 Choose the version that suits your needs:
 
-- **SWA v2 Setup**: [Download Installer](./Downloads/SWA_v2_Setup.exe)
-- **SWA v2 Portable**: [Download Portable Version](./Downloads/SWA_v2_Portable.zip)
+- **SWA v2 Setup**: [Download Installer](./Uploads/SWASetup.exe)
+- **SWA v2 Portable**: [Download Portable Version](./Uploads/SWAV2.zip)
 
 ## 🖼️ Screenshots
 
