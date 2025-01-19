@@ -1,2 +1,7 @@
-# SWAv2
-SWA v2 is an advanced utility designed specifically for integration with Steamtools, streamlining functionality and enhancing user convenience.
+Our socials <3
+
+Discord:
+https://discord.gg/mMxPmzwXHY
+
+Telegram:
+https://t.me/gfklightcloud
