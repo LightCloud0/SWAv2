@@ -38,7 +38,7 @@ Stay connected and join the community:
 
 ### Special Thanks
 
-A special thanks to **[PrintedWaste](https://printedwaste.com/)** for hosting manifest files.
+A special thanks to **[PrintedWaste](https://printedwaste.com/)**.
 
 ---
 
