@@ -5,8 +5,8 @@ SWA v2 is an advanced utility designed specifically for integration with [Steamt
 ## 📂 Features
 
 - **Over 2500+ Games**: Access a vast library of games, ensuring you have the most up-to-date titles at your fingertips.
-- **DLC Support**: Download and manage downloadable content (DLCs) for your games, ensuring a complete and enriched gaming experience.
-- **Launcher Bypasses**: Enjoy the ability to bypass various game launchers, enhancing flexibility and user control over game management.
+- **DLC Support**: Access and manage downloadable content (DLCs) for your games, ensuring a complete and enriched gaming experience.
+- **Launcher Bypasses**: Enjoy the ability to bypass supported game launchers.
 
 ## 📂 Directories
 
