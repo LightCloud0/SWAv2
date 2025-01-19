@@ -17,6 +17,7 @@ Choose the version that suits your needs:
 ## 🖼️ Screenshots
 
 Here’s a glimpse of the SWA v2:
+
 ![Screenshot 1](./static/swav2.png)
 
 ## 💬 Our Socials <3
