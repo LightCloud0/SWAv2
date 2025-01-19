@@ -32,6 +32,33 @@ Stay connected and join the community:
 - **Discord**: [Join our server](https://discord.gg/mMxPmzwXHY)
 - **Telegram**: [Follow us here](https://t.me/gfklightcloud)
 
+Here's an updated "Donations" section with more cryptocurrency options:
+
+---
+
+## 🤝 Donations
+
+Support of SWA v2 by donating cryptocurrency. Your contributions help us enhance and maintain this project!
+
+- **Bitcoin (BTC)**: `bc1qhsz443as6d3rqqy9h8ur0dm866f26s2854k3gk`
+- **Ethereum (ETH)**: `0x8320f72d4e34A0627b7cE9dBA6B3a851bb47ffF7`
+- **Tether (USDT)** (TRC-20): `TBU3C1vqdWawhoNr2SxpwghzbNw6ca7vo2`
+- **Litecoin (LTC)**: `ltc1qd2zcy3xze40sjwgkw8f34xr6yyz4l96xxkpduy`
+- **Dogecoin (DOGE)**: `DQuf6SdUQMfLtjQvvWzGQVJBrNWBAWSKb7`
+- **Cardano (ADA)**: `addr1q87kanjzqurfv0q2heddhpfjx4l9zzdlzcun2ae3pd5undwzrlff3z7us3n032yqfn0c9zscl6leyh6fyafks0kwcskqy3esp9`
+- **Ripple (XRP)**: `rBwTwhLvp2pr6gYLwhVTL2hRaeC3wY8tYK`
+- **Polkadot (DOT)**: `1pTkkdASubn3bKiGQs2zDpuDZ4CiZUFjVU6bDu879HiQo2S`
+- **Binance Coin (BNB)**: `0x8320f72d4e34A0627b7cE9dBA6B3a851bb47ffF7`
+- **Solana (SOL)**: `8LosvUWwgUrzFZVenaY4X1vcfoqdnu9whGv1Jp8jbDHE`
+- **Trump (MAGA)**: `0x8320f72d4e34A0627b7cE9dBA6B3a851bb47ffF7`
+- **Polygon (MATIC)**: `0x8320f72d4e34A0627b7cE9dBA6B3a851bb47ffF7`
+
+Your generosity keeps SWA v2 alive. Thank you for supporting us! 💖
+
+---
+
+Let me know if you'd like to include even more options or further refine the section. 😊
+
 ---
 
 ### Special Thanks
