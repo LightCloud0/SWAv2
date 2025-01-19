@@ -1,5 +1,3 @@
-Here's the updated content with the link to PrintedWaste:
-
 ---
 
 # SWA v2: Advanced Utility for Steamtools Integration
