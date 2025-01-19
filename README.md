@@ -16,10 +16,8 @@ Choose the version that suits your needs:
 
 ## 🖼️ Screenshots
 
-Here’s a glimpse of the SWA v2 application:
-
-1. ![Screenshot 1](./screenshots/screenshot1.png)
-2. ![Screenshot 2](./screenshots/screenshot2.png)
+Here’s a glimpse of the SWA v2:
+![Screenshot 1](./static/swav2.png)
 
 ## 💬 Our Socials <3
 
