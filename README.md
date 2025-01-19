@@ -2,6 +2,12 @@
 
 SWA v2 is an advanced utility designed specifically for integration with [Steamtools](https://steamtools.net), streamlining functionality and enhancing user convenience.
 
+## 📂 Features
+
+- **Over 2500+ Games**: Access a vast library of games, ensuring you have the most up-to-date titles at your fingertips.
+- **DLC Support**: Download and manage downloadable content (DLCs) for your games, ensuring a complete and enriched gaming experience.
+- **Launcher Bypasses**: Enjoy the ability to bypass various game launchers, enhancing flexibility and user control over game management.
+
 ## 📂 Directories
 
 - **Games**: [Browse the Game Directory](./Games) to explore all available content.
@@ -16,9 +22,9 @@ Choose the version that suits your needs:
 
 ## 🖼️ Screenshots
 
-Here’s a glimpse of the SWA v2:
+Here’s a glimpse of the SWA v2 application:
 
-![Screenshot 1](./static/swav2.png)
+![Screenshot 2](./static/SWAV2.png)
 
 ## 💬 Our Socials <3
 
