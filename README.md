@@ -51,7 +51,6 @@ Support of SWA v2 by donating cryptocurrency. Your contributions help us enhance
 - **Binance Coin (BNB)**: `0x8320f72d4e34A0627b7cE9dBA6B3a851bb47ffF7`
 - **Ton Coin (TON)**: `UQAEFXnUV4by1zg6VEEz-sCIMP-rMT0kZiXFgSWlV9E4LsU5`
 - **Solana (SOL)**: `8LosvUWwgUrzFZVenaY4X1vcfoqdnu9whGv1Jp8jbDHE`
-- **Trump (MAGA)**: `0x8320f72d4e34A0627b7cE9dBA6B3a851bb47ffF7`
 - **Polygon (MATIC)**: `0x8320f72d4e34A0627b7cE9dBA6B3a851bb47ffF7`
 
 Your generosity keeps SWA v2 alive. Thank you for supporting us! 💖
