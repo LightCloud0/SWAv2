@@ -10,6 +10,9 @@ SWA v2 is an advanced utility designed specifically for integration with [Steamt
 - **DLC Support**: Access and manage downloadable content (DLCs) for your games, ensuring a complete and enriched gaming experience.
 - **Launcher Bypasses**: Enjoy the ability to bypass supported game launchers.
 
+## 🎮 Game List
+- Explore the full list of available games with over 2500+ titles! [Gamelist](https://lightcloud0.github.io/).
+
 ## 📂 Directories
 
 - **Uploads**: [Access the Uploads Folder](./Uploads) for all application files.
