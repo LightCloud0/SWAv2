@@ -11,7 +11,7 @@ SWA v2 is an advanced utility designed specifically for integration with [Steamt
 - **Launcher Bypasses**: Enjoy the ability to bypass supported game launchers.
 
 ## 🎮 Game List
-- Explore the full list of available games with over 2500+ titles! [Gamelist](https://lightcloud0.github.io/).
+- Explore the full list of available games with over 2500+ titles! [Gamelist](https://lightcloud0.github.io/)
 
 ## 📂 Directories
 
