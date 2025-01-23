@@ -58,10 +58,6 @@ Your generosity keeps SWA v2 alive. Thank you for supporting us! 💖
 
 ---
 
-Let me know if you'd like to include even more options or further refine the section. 😊
-
----
-
 ### Special Thanks
 
 A special thanks to **[PrintedWaste](https://printedwaste.com/)**.
