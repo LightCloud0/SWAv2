@@ -35,8 +35,6 @@ Stay connected and join the community:
 - **Discord**: [Join our server](https://discord.gg/mMxPmzwXHY)
 - **Telegram**: [Follow us here](https://t.me/gfklightcloud)
 
-Here's an updated "Donations" section with more cryptocurrency options:
-
 ---
 
 ## 🤝 Donations
