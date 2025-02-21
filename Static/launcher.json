@@ -1,5 +1,5 @@
 {
-  "Grand Theft Auto IV": {
+  "Grand Theft Auto ": {
     "game_id": 12210,
     "files": [
       "GTAIV.exe",
@@ -9,24 +9,111 @@
       "orig_socialclub.dll",
       "socialclub.dll"
     ],
-    "path": "Grand Theft Auto IV//GtaIV",
+    "path": "Grand Theft Auto IV: The Complete Edition",
     "source": "https://github.com/onajlikezz/Nightlight-Game-Launcher/tree/main/Modules/GTAIV",
-    "dwlnk": "gta4.zip",
-    "startfile": "PlayGTAIV.exe"
+    "dwlnk": "gtaiv.zip",
+    "startfile": "GTAIV.exe"
   },
-  "Red Dead Redemption": {
+  "Grand Theft Auto V": {
+    "game_id": 271590,
+    "files": [
+      "PlayGTAV.exe",
+      "bink2w64.dll",
+      "launc.dll",
+      "orig_socialclub.dll",
+      "socialclub.dll"
+    ],
+    "path": "Grand Theft Auto V",
+    "source": "https://github.com/onajlikezz/Nightlight-Game-Launcher/tree/main/Modules/GTAV",
+    "dwlnk": "gtav.zip",
+    "startfile": "PlayGTAV.exe"
+  },
+  "Red Dead Redemption ": {
     "game_id": 2668510,
     "files": [
-      "PlayRDR.exe",
-      "RDR.exe",
       "1911.dll",
-      "steam_api64.dll",
-      "st.interposer.dll",
-      "bink2w64.dll"
+      "PlayRDR.exe",
+      "steam_api64.dll"
     ],
     "path": "Red Dead Redemption",
     "source": "https://github.com/onajlikezz/Nightlight-Game-Launcher/tree/main/Modules/RDR1",
     "dwlnk": "rdr1.zip",
-    "startfile": "RDR.exe"
+    "startfile": "PlayRDR.exe"
   },
+  "Red Dead Redemption 2": {
+    "game_id": 1174180,
+    "files": [
+      "1911.dll",
+      "Launcher.exe",
+      "RDR2Launcher.exe",
+      "bink2w64.dll"
+    ],
+    "path": "Red Dead Redemption 2",
+    "source": "https://github.com/onajlikezz/Nightlight-Game-Launcher/tree/main/Modules/RDR2",
+    "dwlnk": "rdr2.zip",
+    "startfile": "Launcher.exe"
+  },
+  "Assassin's Creed Rogue": {
+    "game_id": 205100,
+    "files": [
+      "binkw64.dll",
+      "codex.dll",
+      "codex.ini"
+    ],
+    "path": "Assassin's Creed Rogue",
+    "source": "https://github.com/Ahmeds-tool/Ahmeds-Bypass/tree/main/Bypasses/Assassin's Creed Rogue",
+    "dwlnk": "assassin's_creed_rogue.zip",
+    "startfile": ""
+  },
+  "Assassin's Creed Unity": {
+    "game_id": 289650,
+    "files": [
+      "ALI213.ini",
+      "uplay_r1_loader64.dll",
+      "uplay_r1_loader64.ubi"
+    ],
+    "path": "Assassin's Creed Unity",
+    "source": "https://github.com/Ahmeds-tool/Ahmeds-Bypass/tree/main/Bypasses/Assassin's Creed Unity",
+    "dwlnk": "assassin's_creed_unity.zip",
+    "startfile": ""
+  },
+  "Assassin's Creed® III": {
+    "game_id": 8980,
+    "files": [
+      "AC3SP.exe",
+      "Readme.txt",
+      "ubiorbitapi_r2.dll",
+      "ubiorbitapi_r2_loader.dll",
+      "uplay_r1.dll",
+      "uplay_r1_loader.dll"
+    ],
+    "path": "Assassin's Creed® III",
+    "source": "https://github.com/Ahmeds-tool/Ahmeds-Bypass/tree/main/Bypasses/Assassin's Creed® III",
+    "dwlnk": "assassin's_creed®_iii.zip",
+    "startfile": "AC3SP.exe"
+  },
+  "Assassins Creed IV Black Flag": {
+    "game_id": 242050,
+    "files": [
+      "AC4BFMP.exe",
+      "AC4BFSP.exe",
+      "uplay_r1_loader.dll"
+    ],
+    "path": "Assassins Creed IV Black Flag",
+    "source": "https://github.com/Ahmeds-tool/Ahmeds-Bypass/tree/main/Bypasses/Assassins Creed IV Black Flag",
+    "dwlnk": "assassins_creed_iv_black_flag.zip",
+    "startfile": "AC4BFMP.exe"
+  },
+  "Driver San Francisco": {
+    "game_id": 33440,
+    "files": [
+      "orbit_api.ini",
+      "ubiorbitapi_r2_loader.dll",
+      "uplay_r1_loader.dll"
+    ],
+    "path": "Driver San Francisco",
+    "source": "https://github.com/Ahmeds-tool/Ahmeds-Bypass/tree/main/Bypasses/Driver San Francisco",
+    "dwlnk": "driver_san_francisco.zip",
+    "startfile": ""
+  }
 }
