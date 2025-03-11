@@ -14,6 +14,16 @@
     "dwlnk": "gtaiv.zip",
     "startfile": "GTAIV.exe"
   },
+  "Need for Speed™ Most Wanted": {
+    "game_id": 1262560,
+    "files": [
+      "NFS13.exe"
+    ],
+    "path": "Need for Speed™ Most Wanted",
+    "source": "https://github.com/yuliitezarygml/games-bypasset/tree/main/NFS%20MW",
+    "dwlnk": "NFS_MW.7z",
+    "startfile": "NFS13.exe"
+  },
   "Grand Theft Auto V": {
     "game_id": 271590,
     "files": [
@@ -115,15 +125,5 @@
     "source": "https://github.com/Ahmeds-tool/Ahmeds-Bypass/tree/main/Bypasses/Driver San Francisco",
     "dwlnk": "driver_san_francisco.zip",
     "startfile": ""
-  },
-  "Need for Speed™ Most Wanted": {
-    "game_id": 1262560,
-    "files": [
-      "NFS13.exe"
-    ],
-    "path": "Need for Speed™ Most Wanted",
-    "source": "https://github.com/yuliitezarygml/games-bypasset/tree/main/NFS%20MW",
-    "dwlnk": "NFS_MW.7z",
-    "startfile": "NFS13.exe"
   }
 }
